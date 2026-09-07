@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KP Legends//Pokemon GO Perth Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO — GO Fest — Perth
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pokemon-go-fest-2026-mega-finale@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260905T100000
+DTEND;TZID=Australia/Perth:20260906T180000
+SUMMARY:Pokémon GO Fest 2026: Mega Finale
+DESCRIPTION:Pokémon GO Fest\n\nSource: Leek Duck via ScrapedDuck\nhttp
+ s://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
+URL:https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
+CATEGORIES:GO Fest
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

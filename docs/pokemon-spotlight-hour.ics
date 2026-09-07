@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KP Legends//Pokemon GO Perth Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO — Spotlight Hour — Perth
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-10@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260910T180000
+DTEND;TZID=Australia/Perth:20260910T190000
+SUMMARY:Weedle\, Kakuna\, and Beedrill Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-10/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-13@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260913T180000
+DTEND;TZID=Australia/Perth:20260913T190000
+SUMMARY:Houndour and Houndoom Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-13/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-13/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-17@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260917T180000
+DTEND;TZID=Australia/Perth:20260917T190000
+SUMMARY:Mystery Pokémon Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-24@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260924T180000
+DTEND;TZID=Australia/Perth:20260924T190000
+SUMMARY:Rattata Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

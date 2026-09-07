@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KP Legends//Pokemon GO Perth Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO — Max Battles — Perth
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:max-battle-day-october-2026@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20261003T140000
+DTEND;TZID=Australia/Perth:20261003T170000
+SUMMARY:Max Battle Day
+DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
+ leekduck.com/events/max-battle-day-october-2026/
+URL:https://leekduck.com/events/max-battle-day-october-2026/
+CATEGORIES:Max Battles
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-october-24-2026@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20261024T140000
+DTEND;TZID=Australia/Perth:20261024T170000
+SUMMARY:Max Battle Day
+DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
+ leekduck.com/events/max-battle-day-october-24-2026/
+URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+CATEGORIES:Max Battles
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

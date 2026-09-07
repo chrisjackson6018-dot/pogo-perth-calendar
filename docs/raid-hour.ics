@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KP Legends//Pokemon GO Perth Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO — Raid Hour — Perth
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:raidhour20260909@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260909T180000
+DTEND;TZID=Australia/Perth:20260909T190000
+SUMMARY:Zacian (Hero of Many Battles) Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20260909/
+URL:https://leekduck.com/events/raidhour20260909/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260916@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260916T180000
+DTEND;TZID=Australia/Perth:20260916T190000
+SUMMARY:Zamazenta (Hero of Many Battles) Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20260916/
+URL:https://leekduck.com/events/raidhour20260916/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260923@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260923T180000
+DTEND;TZID=Australia/Perth:20260923T190000
+SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20260923/
+URL:https://leekduck.com/events/raidhour20260923/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260930@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260930T180000
+DTEND;TZID=Australia/Perth:20260930T190000
+SUMMARY:Xerneas Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20260930/
+URL:https://leekduck.com/events/raidhour20260930/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

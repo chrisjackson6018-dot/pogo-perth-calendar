@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KP Legends//Pokemon GO Perth Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO — Community Day — Perth
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:september-communitydayclassic2026@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20260912T140000
+DTEND;TZID=Australia/Perth:20260912T170000
+SUMMARY:Gible Community Day Classic
+DESCRIPTION:Community Day\n\nSource: Leek Duck via ScrapedDuck\nhttps:
+ //leekduck.com/events/september-communitydayclassic2026/
+URL:https://leekduck.com/events/september-communitydayclassic2026/
+CATEGORIES:Community Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2026@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20261010T140000
+DTEND;TZID=Australia/Perth:20261010T170000
+SUMMARY:October Community Day
+DESCRIPTION:Community Day\n\nSource: Leek Duck via ScrapedDuck\nhttps:
+ //leekduck.com/events/october-communityday2026/
+URL:https://leekduck.com/events/october-communityday2026/
+CATEGORIES:Community Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2026@pogo-perth-calendar
+DTSTAMP:20260907T063454Z
+DTSTART;TZID=Australia/Perth:20261121T140000
+DTEND;TZID=Australia/Perth:20261121T170000
+SUMMARY:November Community Day
+DESCRIPTION:Community Day\n\nSource: Leek Duck via ScrapedDuck\nhttps:
+ //leekduck.com/events/november-communityday2026/
+URL:https://leekduck.com/events/november-communityday2026/
+CATEGORIES:Community Day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
