@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pokémon GO Perth Calendar</title>
+  <style>
+    :root { font-family: system-ui, -apple-system, Segoe UI, sans-serif; color-scheme: light dark; }
+    body { max-width: 760px; margin: 0 auto; padding: 24px 18px 56px; line-height: 1.45; }
+    h1 { margin-bottom: 4px; }
+    .muted { opacity: .72; }
+    .card { border: 1px solid #8886; border-radius: 14px; padding: 16px; margin: 14px 0; }
+    .feed { display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center; border-top: 1px solid #8884; padding: 12px 0; }
+    .feed:first-child { border-top: 0; }
+    button, a.button { font: inherit; padding: 9px 12px; border-radius: 9px; border: 1px solid #8888; background: transparent; color: inherit; text-decoration: none; cursor: pointer; }
+    button:active, a.button:active { transform: translateY(1px); }
+    code { overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <h1>Pokémon GO — Perth Calendar</h1>
+  <p class="muted">Leek Duck event data via ScrapedDuck, explicitly fixed to <strong>Australia/Perth (AWST)</strong>.</p>
+
+  <div class="card">
+    <h2>Recommended</h2>
+    <div class="feed">
+      <div><strong>Everything useful</strong><br><small>Community events, Raid Hours/Days, GO Fest/Tour, Max, Research and Spotlight Hours.</small></div>
+      <button data-feed="perth-all.ics">Copy subscription URL</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Individual calendars</h2>
+    <div id="feeds"></div>
+  </div>
+
+  <div class="card">
+    <h2>Google Calendar</h2>
+    <p>On a computer, open Google Calendar → <strong>Other calendars</strong> → <strong>+</strong> → <strong>From URL</strong>, then paste one of the subscription URLs above.</p>
+    <p class="muted">This is a subscription, not a one-time import. Google decides when to refresh subscribed calendars, so changes may not appear immediately.</p>
+  </div>
+
+  <p class="muted">Unofficial community tool. Event data ©/credit LeekDuck.com and ScrapedDuck.</p>
+
+<script>
+const feeds = [
+  ["Community Day", "community-day.ics"],
+  ["Raid Hour", "raid-hour.ics"],
+  ["Raid Day", "raid-day.ics"],
+  ["Raid Weekend", "raid-weekend.ics"],
+  ["GO Fest", "pokemon-go-fest.ics"],
+  ["GO Tour", "pokemon-go-tour.ics"],
+  ["Spotlight Hour", "pokemon-spotlight-hour.ics"],
+  ["Max Monday", "max-mondays.ics"],
+  ["Max Battles", "max-battles.ics"],
+  ["Research", "research.ics"],
+  ["Elite Raids", "elite-raids.ics"],
+  ["Other global events", "event.ics"]
+];
+
+function absoluteFeed(file) {
+  return new URL(file, window.location.href).href;
+}
+
+async function copyFeed(file, button) {
+  const url = absoluteFeed(file);
+  try {
+    await navigator.clipboard.writeText(url);
+    const old = button.textContent;
+    button.textContent = "Copied";
+    setTimeout(() => button.textContent = old, 1400);
+  } catch {
+    window.prompt("Copy this calendar URL:", url);
+  }
+}
+
+document.querySelectorAll("[data-feed]").forEach(btn => {
+  btn.addEventListener("click", () => copyFeed(btn.dataset.feed, btn));
+});
+
+const holder = document.getElementById("feeds");
+for (const [label, file] of feeds) {
+  const row = document.createElement("div");
+  row.className = "feed";
+  const text = document.createElement("div");
+  text.textContent = label;
+  const button = document.createElement("button");
+  button.textContent = "Copy URL";
+  button.addEventListener("click", () => copyFeed(file, button));
+  row.append(text, button);
+  holder.appendChild(row);
+}
+</script>
+</body>
+</html>
