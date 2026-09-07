@@ -16,9 +16,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-09-07@pogo-perth-calendar
-DTSTAMP:20260907T063454Z
-DTSTART;TZID=Australia/Perth:20260907T060000
-DTEND;TZID=Australia/Perth:20260907T210000
+DTSTAMP:20260907T065614Z
+DTSTART;TZID=Australia/Perth:20260907T180000
+DTEND;TZID=Australia/Perth:20260907T190000
 SUMMARY:Dynamax Ralts during Max Monday
 DESCRIPTION:Max Mondays\n\nSource: Leek Duck via ScrapedDuck\nhttps://
  leekduck.com/events/max-mondays-2026-09-07/
@@ -28,9 +28,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-14@pogo-perth-calendar
-DTSTAMP:20260907T063454Z
-DTSTART;TZID=Australia/Perth:20260914T060000
-DTEND;TZID=Australia/Perth:20260914T210000
+DTSTAMP:20260907T065614Z
+DTSTART;TZID=Australia/Perth:20260914T180000
+DTEND;TZID=Australia/Perth:20260914T190000
 SUMMARY:Dynamax Rhyhorn during Max Monday
 DESCRIPTION:Max Mondays\n\nSource: Leek Duck via ScrapedDuck\nhttps://
  leekduck.com/events/max-mondays-2026-09-14/
@@ -40,9 +40,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-21@pogo-perth-calendar
-DTSTAMP:20260907T063454Z
-DTSTART;TZID=Australia/Perth:20260921T060000
-DTEND;TZID=Australia/Perth:20260921T210000
+DTSTAMP:20260907T065614Z
+DTSTART;TZID=Australia/Perth:20260921T180000
+DTEND;TZID=Australia/Perth:20260921T190000
 SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
 DESCRIPTION:Max Mondays\n\nSource: Leek Duck via ScrapedDuck\nhttps://
  leekduck.com/events/max-mondays-2026-09-21/
@@ -52,9 +52,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-28@pogo-perth-calendar
-DTSTAMP:20260907T063454Z
-DTSTART;TZID=Australia/Perth:20260928T060000
-DTEND;TZID=Australia/Perth:20260928T210000
+DTSTAMP:20260907T065614Z
+DTSTART;TZID=Australia/Perth:20260928T180000
+DTEND;TZID=Australia/Perth:20260928T190000
 SUMMARY:Dynamax Sobble during Max Monday
 DESCRIPTION:Max Mondays\n\nSource: Leek Duck via ScrapedDuck\nhttps://
  leekduck.com/events/max-mondays-2026-09-28/
