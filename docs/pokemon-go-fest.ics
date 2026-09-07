@@ -14,16 +14,5 @@ TZOFFSETTO:+0800
 TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:pokemon-go-fest-2026-mega-finale@pogo-perth-calendar
-DTSTAMP:20260907T065614Z
-DTSTART;TZID=Australia/Perth:20260905T100000
-DTEND;TZID=Australia/Perth:20260906T180000
-SUMMARY:Pokémon GO Fest 2026: Mega Finale
-DESCRIPTION:Pokémon GO Fest\n\nSource: Leek Duck via ScrapedDuck\nhttp
- s://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
-CATEGORIES:GO Fest
-TRANSP:TRANSPARENT
-END:VEVENT
+
 END:VCALENDAR
