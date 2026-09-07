@@ -85,8 +85,23 @@ function isLocationSpecific(e) {
   if (e.eventType === "live-event") return true;
   return false;
 }
+function adjustedTimes(e) {
+  if (e.eventType === "max-mondays") {
+    const date = e.start.slice(0, 10);
 
+    return {
+      start: `${date}T18:00:00`,
+      end: `${date}T19:00:00`
+    };
+  }
+
+  return {
+    start: e.start,
+    end: e.end
+  };
+}
 function eventToIcs(e, stamp) {
+  const times = adjustedTimes(e);
   const description = [
     e.heading ? `${e.heading}` : "",
     "",
@@ -98,8 +113,8 @@ function eventToIcs(e, stamp) {
     "BEGIN:VEVENT",
     `UID:${escapeText(e.eventID)}@pogo-perth-calendar`,
     `DTSTAMP:${stamp}`,
-    `DTSTART;TZID=${TZID}:${icalLocal(e.start)}`,
-    `DTEND;TZID=${TZID}:${icalLocal(e.end)}`,
+`DTSTART;TZID=${TZID}:${icalLocal(times.start)}`,
+`DTEND;TZID=${TZID}:${icalLocal(times.end)}`,
     `SUMMARY:${escapeText(e.name)}`,
     `DESCRIPTION:${escapeText(description)}`,
     e.link ? `URL:${e.link}` : null,
