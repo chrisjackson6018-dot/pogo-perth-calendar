@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20260803T100000
 DTEND;TZID=Australia/Perth:20260930T235900
 SUMMARY:LEGO Stores and Pokémon GO
@@ -27,20 +27,8 @@ CATEGORIES:Events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:10th-anniversary-celebration@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
-DTSTART;TZID=Australia/Perth:20260812T160000
-DTEND;TZID=Australia/Perth:20260906T235900
-SUMMARY:10th Anniversary Celebration - Perfect Mewtwo Timed Research
-DESCRIPTION:Event\n\nSource: Leek Duck via ScrapedDuck\nhttps://leekdu
- ck.com/events/10th-anniversary-celebration/
-URL:https://leekduck.com/events/10th-anniversary-celebration/
-CATEGORIES:Events
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-squads@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20260908T100000
 DTEND;TZID=Australia/Perth:20260914T200000
 SUMMARY:Mega Squads
@@ -53,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026@pogo-perth-cale
  ndar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20260916T100000
 DTEND;TZID=Australia/Perth:20260922T200000
 SUMMARY:Pokémon Horizons: The Series Celebration Event
@@ -66,7 +54,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20260926T100000
 DTEND;TZID=Australia/Perth:20260926T200000
 SUMMARY:Phantump Catch Mastery
@@ -78,10 +66,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20260929T100000
 DTEND;TZID=Australia/Perth:20261005T200000
-SUMMARY:Harvest Festival
+SUMMARY:Harvest Festival 2026: Applin Picking
 DESCRIPTION:Event\n\nSource: Leek Duck via ScrapedDuck\nhttps://leekdu
  ck.com/events/harvest-festival-2026/
 URL:https://leekduck.com/events/harvest-festival-2026/
@@ -89,8 +77,20 @@ CATEGORIES:Events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:harvest-festival-taken-over-2026@pogo-perth-calendar
+DTSTAMP:20260908T012914Z
+DTSTART;TZID=Australia/Perth:20261002T000000
+DTEND;TZID=Australia/Perth:20261005T200000
+SUMMARY:Harvest Festival: Taken Over
+DESCRIPTION:Event\n\nSource: Leek Duck via ScrapedDuck\nhttps://leekdu
+ ck.com/events/harvest-festival-taken-over-2026/
+URL:https://leekduck.com/events/harvest-festival-taken-over-2026/
+CATEGORIES:Events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-october-2026@pogo-perth-calendar
-DTSTAMP:20260907T133217Z
+DTSTAMP:20260908T012914Z
 DTSTART;TZID=Australia/Perth:20261017T110000
 DTEND;TZID=Australia/Perth:20261017T170000
 SUMMARY:Hatch Day
