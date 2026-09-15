@@ -16,10 +16,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:october-communityday2026@pogo-perth-calendar
-DTSTAMP:20260915T013209Z
+DTSTAMP:20260915T133128Z
 DTSTART;TZID=Australia/Perth:20261010T140000
 DTEND;TZID=Australia/Perth:20261010T170000
-SUMMARY:October Community Day
+SUMMARY:Zorua Community Day
 DESCRIPTION:Community Day\n\nSource: Leek Duck via ScrapedDuck\nhttps:
  //leekduck.com/events/october-communityday2026/
 URL:https://leekduck.com/events/october-communityday2026/
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pogo-perth-calendar
-DTSTAMP:20260915T013209Z
+DTSTAMP:20260915T133128Z
 DTSTART;TZID=Australia/Perth:20261121T140000
 DTEND;TZID=Australia/Perth:20261121T170000
 SUMMARY:November Community Day
