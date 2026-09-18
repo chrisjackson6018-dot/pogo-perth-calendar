@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17@pogo-perth-calendar
-DTSTAMP:20260917T133050Z
+DTSTAMP:20260918T012743Z
 DTSTART;TZID=Australia/Perth:20260917T180000
 DTEND;TZID=Australia/Perth:20260917T190000
 SUMMARY:Charmander wearing Friede's goggles Spotlight Hour
@@ -28,13 +28,73 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24@pogo-perth-calendar
-DTSTAMP:20260917T133050Z
+DTSTAMP:20260918T012743Z
 DTSTART;TZID=Australia/Perth:20260924T180000
 DTEND;TZID=Australia/Perth:20260924T190000
 SUMMARY:Rattata Spotlight Hour
 DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
  k\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-01@pogo-perth-calendar
+DTSTAMP:20260918T012743Z
+DTSTART;TZID=Australia/Perth:20261001T180000
+DTEND;TZID=Australia/Perth:20261001T190000
+SUMMARY:Seedot Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-10-01/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-01/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-08@pogo-perth-calendar
+DTSTAMP:20260918T012743Z
+DTSTART;TZID=Australia/Perth:20261008T180000
+DTEND;TZID=Australia/Perth:20261008T190000
+SUMMARY:Elgyem Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-10-08/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-15@pogo-perth-calendar
+DTSTAMP:20260918T012743Z
+DTSTART;TZID=Australia/Perth:20261015T180000
+DTEND;TZID=Australia/Perth:20261015T190000
+SUMMARY:Stufful Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-10-15/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-22@pogo-perth-calendar
+DTSTAMP:20260918T012743Z
+DTSTART;TZID=Australia/Perth:20261022T180000
+DTEND;TZID=Australia/Perth:20261022T190000
+SUMMARY:Morelull Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-10-22/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-29@pogo-perth-calendar
+DTSTAMP:20260918T012743Z
+DTSTART;TZID=Australia/Perth:20261029T180000
+DTEND;TZID=Australia/Perth:20261029T190000
+SUMMARY:Gastly Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-10-29/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
 CATEGORIES:Spotlight Hour
 TRANSP:TRANSPARENT
 END:VEVENT
