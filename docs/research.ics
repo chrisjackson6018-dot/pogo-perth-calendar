@@ -16,8 +16,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-horizons-bonus-timed-research-2026@pogo-perth-calendar
-DTSTAMP:20260919T012914Z
-DTSTART;TZID=Australia/Perth:20260918T000000
+DTSTAMP:20260919T132821Z
+DTSTART;TZID=Australia/Perth:20260918T100000
 DTEND;TZID=Australia/Perth:20260922T200000
 SUMMARY:Pokémon Horizons Bonus Timed Research
 DESCRIPTION:Research\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
