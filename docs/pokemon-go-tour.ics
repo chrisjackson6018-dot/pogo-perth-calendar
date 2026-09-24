@@ -14,5 +14,41 @@ TZOFFSETTO:+0800
 TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
-
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-kaohsiung-2027@pogo-perth-calendar
+DTSTAMP:20260924T133206Z
+DTSTART;TZID=Australia/Perth:20270218T160000
+DTEND;TZID=Australia/Perth:20270221T155959
+SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
+DESCRIPTION:Pokémon GO Tour\n\nSource: Leek Duck via ScrapedDuck\nhttp
+ s://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
+CATEGORIES:GO Tour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-los-angeles-2027@pogo-perth-calendar
+DTSTAMP:20260924T133206Z
+DTSTART;TZID=Australia/Perth:20270219T080000
+DTEND;TZID=Australia/Perth:20270222T075959
+SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
+DESCRIPTION:Pokémon GO Tour\n\nSource: Leek Duck via ScrapedDuck\nhttp
+ s://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027
+ /
+CATEGORIES:GO Tour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-global-2027@pogo-perth-calendar
+DTSTAMP:20260924T133206Z
+DTSTART;TZID=Australia/Perth:20270227T000000
+DTEND;TZID=Australia/Perth:20270228T235959
+SUMMARY:Pokémon GO Tour: Alola - Global 2027
+DESCRIPTION:Pokémon GO Tour\n\nSource: Leek Duck via ScrapedDuck\nhttp
+ s://leekduck.com/events/pokemon-go-tour-alola-global-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
+CATEGORIES:GO Tour
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
