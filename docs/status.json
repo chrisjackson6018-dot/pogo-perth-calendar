@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T07:47:02.864Z",
+  "generatedAt": "2026-10-13T19:52:43.960Z",
   "timezone": "Australia/Perth",
   "source": "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json",
-  "totalEvents": 28,
+  "totalEvents": 27,
   "counts": {
     "community-day": 1,
     "event": 11,
@@ -13,7 +13,7 @@
     "raid-weekend": 0,
     "elite-raids": 0,
     "research": 1,
-    "max-mondays": 3,
+    "max-mondays": 2,
     "max-battles": 1,
     "pokemon-spotlight-hour": 3
   }
