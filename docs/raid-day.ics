@@ -15,20 +15,20 @@ TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:super-mega-raid-day-october-2026@pogo-perth-calendar
-DTSTAMP:20261013T195243Z
+UID:chandelure-super-mega-raid-day-2026@pogo-perth-calendar
+DTSTAMP:20261014T061153Z
 DTSTART;TZID=Australia/Perth:20261031T140000
 DTEND;TZID=Australia/Perth:20261031T170000
-SUMMARY:Super Mega Raid Day
+SUMMARY:Chandelure Super Mega Raid Day
 DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
- kduck.com/events/super-mega-raid-day-october-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
+ kduck.com/events/chandelure-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
 CATEGORIES:Raid Day
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026@pogo-perth-calendar
-DTSTAMP:20261013T195243Z
+DTSTAMP:20261014T061153Z
 DTSTART;TZID=Australia/Perth:20261128T140000
 DTEND;TZID=Australia/Perth:20261128T170000
 SUMMARY:Super Mega Raid Day
