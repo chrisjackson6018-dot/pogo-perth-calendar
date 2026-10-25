@@ -14,17 +14,5 @@ TZOFFSETTO:+0800
 TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026@pogo-perth-calendar
-DTSTAMP:20261025T061304Z
-DTSTART;TZID=Australia/Perth:20261024T140000
-DTEND;TZID=Australia/Perth:20261024T170000
-SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
-DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
- leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/
-URL:https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-
- day-2026/
-CATEGORIES:Max Battles
-TRANSP:TRANSPARENT
-END:VEVENT
+
 END:VCALENDAR
