@@ -14,5 +14,16 @@ TZOFFSETTO:+0800
 TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
-
+BEGIN:VEVENT
+UID:eternamax-eternatus-max-battles-2026@pogo-perth-calendar
+DTSTAMP:20261029T071045Z
+DTSTART;TZID=Australia/Perth:20261121T110000
+DTEND;TZID=Australia/Perth:20261121T140000
+SUMMARY:Eternamax Eternatus Returns
+DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
+ leekduck.com/events/eternamax-eternatus-max-battles-2026/
+URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
+CATEGORIES:Max Battles
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

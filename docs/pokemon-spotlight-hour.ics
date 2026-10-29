@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29@pogo-perth-calendar
-DTSTAMP:20261028T185331Z
+DTSTAMP:20261029T071045Z
 DTSTART;TZID=Australia/Perth:20261029T180000
 DTEND;TZID=Australia/Perth:20261029T190000
 SUMMARY:Gastly Spotlight Hour
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-05@pogo-perth-calendar
-DTSTAMP:20261028T185331Z
+DTSTAMP:20261029T071045Z
 DTSTART;TZID=Australia/Perth:20261105T180000
 DTEND;TZID=Australia/Perth:20261105T190000
 SUMMARY:Teddiursa wearing a witch hat Spotlight Hour
@@ -39,8 +39,20 @@ CATEGORIES:Spotlight Hour
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2026-11-19@pogo-perth-calendar
+DTSTAMP:20261029T071045Z
+DTSTART;TZID=Australia/Perth:20261119T180000
+DTEND;TZID=Australia/Perth:20261119T190000
+SUMMARY:Grookey\, Scorbunny\, and Sobble Spotlight Hour
+DESCRIPTION:Pokémon Spotlight Hour\n\nSource: Leek Duck via ScrapedDuc
+ k\nhttps://leekduck.com/events/pokemonspotlighthour2026-11-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-19/
+CATEGORIES:Spotlight Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26@pogo-perth-calendar
-DTSTAMP:20261028T185331Z
+DTSTAMP:20261029T071045Z
 DTSTART;TZID=Australia/Perth:20261126T180000
 DTEND;TZID=Australia/Perth:20261126T190000
 SUMMARY:Noibat Spotlight Hour
