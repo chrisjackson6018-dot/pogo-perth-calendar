@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-05T07:56:26.136Z",
+  "generatedAt": "2026-11-05T20:41:35.831Z",
   "timezone": "Australia/Perth",
   "source": "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json",
-  "totalEvents": 26,
+  "totalEvents": 25,
   "counts": {
     "community-day": 1,
     "event": 10,
     "pokemon-go-fest": 0,
     "pokemon-go-tour": 3,
     "raid-day": 1,
-    "raid-hour": 3,
+    "raid-hour": 2,
     "raid-weekend": 0,
     "elite-raids": 0,
     "research": 1,
