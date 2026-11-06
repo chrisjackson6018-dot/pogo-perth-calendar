@@ -15,14 +15,14 @@ TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:super-mega-raid-day-november-2026@pogo-perth-calendar
-DTSTAMP:20261105T204135Z
+UID:clefable-super-mega-raid-day-2026@pogo-perth-calendar
+DTSTAMP:20261106T075800Z
 DTSTART;TZID=Australia/Perth:20261128T140000
 DTEND;TZID=Australia/Perth:20261128T170000
-SUMMARY:Super Mega Raid Day
+SUMMARY:Clefable Super Mega Raid Day
 DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
- kduck.com/events/super-mega-raid-day-november-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+ kduck.com/events/clefable-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/clefable-super-mega-raid-day-2026/
 CATEGORIES:Raid Day
 TRANSP:TRANSPARENT
 END:VEVENT
