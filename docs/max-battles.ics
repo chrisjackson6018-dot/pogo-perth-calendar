@@ -16,13 +16,37 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eternamax-eternatus-max-battles-2026@pogo-perth-calendar
-DTSTAMP:20261109T230017Z
+DTSTAMP:20261110T082720Z
 DTSTART;TZID=Australia/Perth:20261121T110000
 DTEND;TZID=Australia/Perth:20261121T140000
 SUMMARY:Eternamax Eternatus Returns
 DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
  leekduck.com/events/eternamax-eternatus-max-battles-2026/
 URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
+CATEGORIES:Max Battles
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-december-2026@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20261205T140000
+DTEND;TZID=Australia/Perth:20261205T170000
+SUMMARY:Max Battle Day
+DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
+ leekduck.com/events/max-battle-day-december-2026/
+URL:https://leekduck.com/events/max-battle-day-december-2026/
+CATEGORIES:Max Battles
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-january-2027@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20270123T140000
+DTEND;TZID=Australia/Perth:20270123T170000
+SUMMARY:Max Battle Day
+DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
+ leekduck.com/events/max-battle-day-january-2027/
+URL:https://leekduck.com/events/max-battle-day-january-2027/
 CATEGORIES:Max Battles
 TRANSP:TRANSPARENT
 END:VEVENT

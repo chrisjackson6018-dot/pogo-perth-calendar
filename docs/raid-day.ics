@@ -16,13 +16,61 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:clefable-super-mega-raid-day-2026@pogo-perth-calendar
-DTSTAMP:20261109T230017Z
+DTSTAMP:20261110T082720Z
 DTSTART;TZID=Australia/Perth:20261128T140000
 DTEND;TZID=Australia/Perth:20261128T170000
 SUMMARY:Clefable Super Mega Raid Day
 DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
  kduck.com/events/clefable-super-mega-raid-day-2026/
 URL:https://leekduck.com/events/clefable-super-mega-raid-day-2026/
+CATEGORIES:Raid Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-december-2026@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20261219T140000
+DTEND;TZID=Australia/Perth:20261219T170000
+SUMMARY:Raid Day
+DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
+ kduck.com/events/raid-day-december-2026/
+URL:https://leekduck.com/events/raid-day-december-2026/
+CATEGORIES:Raid Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-2027@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20270109T140000
+DTEND;TZID=Australia/Perth:20270109T170000
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
+ kduck.com/events/super-mega-raid-day-january-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-2027/
+CATEGORIES:Raid Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-30-2027@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20270130T140000
+DTEND;TZID=Australia/Perth:20270130T170000
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
+ kduck.com/events/super-mega-raid-day-january-30-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-30-2027/
+CATEGORIES:Raid Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-february-2027@pogo-perth-calendar
+DTSTAMP:20261110T082720Z
+DTSTART;TZID=Australia/Perth:20270213T140000
+DTEND;TZID=Australia/Perth:20270213T170000
+SUMMARY:Raid Day
+DESCRIPTION:Raid Day\n\nSource: Leek Duck via ScrapedDuck\nhttps://lee
+ kduck.com/events/raid-day-february-2027/
+URL:https://leekduck.com/events/raid-day-february-2027/
 CATEGORIES:Raid Day
 TRANSP:TRANSPARENT
 END:VEVENT
