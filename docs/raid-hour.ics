@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20261125@pogo-perth-calendar
-DTSTAMP:20261124T110159Z
+DTSTAMP:20261124T230303Z
 DTSTART;TZID=Australia/Perth:20261125T180000
 DTEND;TZID=Australia/Perth:20261125T190000
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
@@ -24,6 +24,67 @@ SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
 DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
  ekduck.com/events/raidhour20261125/
 URL:https://leekduck.com/events/raidhour20261125/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261202@pogo-perth-calendar
+DTSTAMP:20261124T230303Z
+DTSTART;TZID=Australia/Perth:20261202T180000
+DTEND;TZID=Australia/Perth:20261202T190000
+SUMMARY:Regidrago Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20261202/
+URL:https://leekduck.com/events/raidhour20261202/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261209@pogo-perth-calendar
+DTSTAMP:20261124T230303Z
+DTSTART;TZID=Australia/Perth:20261209T180000
+DTEND;TZID=Australia/Perth:20261209T190000
+SUMMARY:Unannounced Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20261209/
+URL:https://leekduck.com/events/raidhour20261209/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261216@pogo-perth-calendar
+DTSTAMP:20261124T230303Z
+DTSTART;TZID=Australia/Perth:20261216T180000
+DTEND;TZID=Australia/Perth:20261216T190000
+SUMMARY:Ho-Oh Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20261216/
+URL:https://leekduck.com/events/raidhour20261216/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261223@pogo-perth-calendar
+DTSTAMP:20261124T230303Z
+DTSTART;TZID=Australia/Perth:20261223T180000
+DTEND;TZID=Australia/Perth:20261223T190000
+SUMMARY:Lugia Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20261223/
+URL:https://leekduck.com/events/raidhour20261223/
+CATEGORIES:Raid Hour
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261230@pogo-perth-calendar
+DTSTAMP:20261124T230303Z
+DTSTART;TZID=Australia/Perth:20261230T180000
+DTEND;TZID=Australia/Perth:20261230T190000
+SUMMARY:Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and Lan
+ dorus (Therian Forme) Raid Hour
+DESCRIPTION:Raid Hour\n\nSource: Leek Duck via ScrapedDuck\nhttps://le
+ ekduck.com/events/raidhour20261230/
+URL:https://leekduck.com/events/raidhour20261230/
 CATEGORIES:Raid Hour
 TRANSP:TRANSPARENT
 END:VEVENT
