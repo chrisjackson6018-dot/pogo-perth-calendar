@@ -15,20 +15,21 @@ TZNAME:AWST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-battle-day-december-2026@pogo-perth-calendar
-DTSTAMP:20261125T223551Z
+UID:gigantamax-inteleon-max-battle-day-2026@pogo-perth-calendar
+DTSTAMP:20261126T093739Z
 DTSTART;TZID=Australia/Perth:20261205T140000
 DTEND;TZID=Australia/Perth:20261205T170000
-SUMMARY:Max Battle Day
+SUMMARY:Gigantamax Inteleon Max Battle Day
 DESCRIPTION:Max Battles\n\nSource: Leek Duck via ScrapedDuck\nhttps://
- leekduck.com/events/max-battle-day-december-2026/
-URL:https://leekduck.com/events/max-battle-day-december-2026/
+ leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-inteleon-max-battle-day-202
+ 6/
 CATEGORIES:Max Battles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027@pogo-perth-calendar
-DTSTAMP:20261125T223551Z
+DTSTAMP:20261126T093739Z
 DTSTART;TZID=Australia/Perth:20270123T140000
 DTEND;TZID=Australia/Perth:20270123T170000
 SUMMARY:Max Battle Day
